@@ -6,7 +6,7 @@ const education = [
   {
     degree: "B.Tech in Computer Science",
     institution: "Lovely Professional University (LPU)",
-    period: "2021 – 2025",
+    period: "2023 – 2027",
     details: "Focusing on full-stack development and software engineering.",
   },
   {

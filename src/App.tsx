@@ -14,6 +14,7 @@ import AboutSection from "@/sections/AboutSection";
 import SkillsSection from "@/sections/SkillsSection";
 import SoftSkillsSection from "@/sections/SoftSkillsSection";
 import ProjectsSection from "@/sections/ProjectsSection";
+import CertificatesSection from "@/sections/CertificatesSection";
 import ResumeSection from "@/sections/ResumeSection";
 import EducationSection from "@/sections/EducationSection";
 import LocationSection from "@/sections/LocationSection";
@@ -62,6 +63,7 @@ const App = () => {
           <SkillsSection />
           <SoftSkillsSection />
           <ProjectsSection />
+          <CertificatesSection />
           <ResumeSection />
           <EducationSection />
           <LocationSection />

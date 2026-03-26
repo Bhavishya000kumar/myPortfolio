@@ -8,6 +8,7 @@ const links = [
   { to: "skills", label: "Technical Skills" },
   { to: "soft-skills", label: "Soft Skills" },
   { to: "projects", label: "Projects" },
+  { to: "certificates", label: "Certificates" },
   { to: "resume", label: "Resume" },
   { to: "education", label: "Education" },
   { to: "location", label: "Location" },
